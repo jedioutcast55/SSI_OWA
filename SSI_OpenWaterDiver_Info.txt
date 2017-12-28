@@ -1,0 +1,14 @@
+American English	International Counterpart
+Center			Centre
+Meter			Metre
+Gray			Grey
+Aluminum		Aluminium
+
+1 ATA (Atmospheres Absolute) = 14.7 psi (pound per square inch)
+1 ATA = 33 fsw (feet of sea water)
+1 ATA = 10.33 metres of sea water
+1 ATA = 1 bar
+1 metre = 3.28 feet
+C = (F - 32) / 1.8
+1 kg (kilogram) = 2.2 lbs (pounds)
+1 km (kilo metre) = 0.621 miles
